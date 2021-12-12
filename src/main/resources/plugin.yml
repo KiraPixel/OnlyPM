@@ -1,0 +1,8 @@
+name: OnlyPM
+version: '${project.version}'
+main: pixels.onlypm.OnlyPM
+api-version: 1.18
+authors: [ PixeSl ]
+description: Nothing more, just PM
+commands:
+  pm: {}
